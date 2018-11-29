@@ -1,1 +1,1 @@
-# yikky-yatty
+#Charity Tracker for my backend web class.
